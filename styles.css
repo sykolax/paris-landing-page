@@ -75,6 +75,13 @@ p {
     padding: 40px 0;
 }
 
+.place-cards-container {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    text-align: center;
+}
+
 .place-card p {
     width: 200px;
     text-align: center;
