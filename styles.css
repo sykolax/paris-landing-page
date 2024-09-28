@@ -1,3 +1,12 @@
+:root {
+   --highlight-purple: #A17EAD;
+   --highlight-yellow: #FEFFA4;
+   --highlight-pink: #FFE2E2;
+   --background-lavender: #E6E7FF;
+   --font-dark-navy: #120E22;
+   --shadow-navy: #1D3557;
+}
+
 body {
     margin: 0;
 }
