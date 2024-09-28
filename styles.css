@@ -75,6 +75,11 @@ p {
     padding: 40px 0;
 }
 
+.place-card p {
+    width: 200px;
+    text-align: center;
+}
+
 .place-card img {
     width: 200px;
     height: 200px;
