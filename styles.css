@@ -59,9 +59,10 @@ p {
 }
 
 .hero h2 {
+    font-size: 16px;
     font-weight: 300;
     text-align: center;
-    width: 500px;
+    width: 400px;
     color: var(--highlight-purple);
     background-color: var(--highlight-yellow);
     padding: 6px 10px;
