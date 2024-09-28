@@ -70,6 +70,10 @@ p {
     padding: 6px 10px;
 }
 
+.places {
+    background-color: var(--background-lavender);
+}
+
 .place-card img {
     width: 200px;
     height: 200px;
