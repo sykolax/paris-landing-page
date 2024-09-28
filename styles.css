@@ -76,6 +76,22 @@ p {
     gap: 30px;
 }
 
+.places h3 {
+    position: relative;
+    z-index: 1;
+}
+
+.places h3::before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 17px;
+    left: -5px;
+    right: -5px;
+    padding: 8px;
+    background-color: var(--highlight-yellow);
+}
+
 .place-cards-container {
     display: flex;
     width: 100%;
