@@ -117,6 +117,13 @@ p {
     margin-bottom: 20px;
 }
 
+.guide {
+    display: flex;
+    width: 800px;
+    margin: auto;
+}
+
 .guide img {
     width: 300px;
 }
+
