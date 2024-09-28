@@ -104,6 +104,10 @@ p {
     text-align: center;
 }
 
+.place-card h4 {
+    background-color: var(--highlight-pink);
+}
+
 .place-card img {
     width: 200px;
     height: 200px;
