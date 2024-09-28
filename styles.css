@@ -73,6 +73,7 @@ p {
 .places {
     background-color: var(--background-lavender);
     padding: 40px 0;
+    gap: 30px;
 }
 
 .place-cards-container {
