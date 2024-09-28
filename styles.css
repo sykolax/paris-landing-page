@@ -85,10 +85,10 @@ p {
     content: "";
     position: absolute;
     z-index: -1;
-    top: 17px;
+    top: 25px;
     left: -5px;
     right: -5px;
-    padding: 8px;
+    padding: 10px;
     background-color: var(--highlight-yellow);
 }
 
@@ -154,7 +154,7 @@ p {
     background-color: var(--highlight-yellow);
     left: -5px;
     right: -5px;
-    top: 16px;
+    top: 28px;
 }
 
 .guide-text-container p {
