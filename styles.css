@@ -22,7 +22,7 @@ h1 {
 }
 
 h3 {
-    font-size: 24px;
+    font-size: 32px;
 }
 
 p {
@@ -155,7 +155,6 @@ p {
     left: -5px;
     right: -5px;
     top: 16px;
-    
 }
 
 .guide-text-container p {
