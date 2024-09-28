@@ -139,3 +139,8 @@ p {
     text-align: center;
     align-self: center;
 }
+
+.guide-text-container p {
+    font-style: italic;
+    font-weight: 300;
+}
