@@ -17,7 +17,7 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-    font-size: 48px;
+    font-size: 64px;
 }
 
 h3 {
@@ -38,7 +38,7 @@ p {
     background-image: url("./resources/images/paris_background.png");
     background-size: cover;
     background-position: center;
-    padding: 250px 0;
+    padding: 150px 0;
 }
 
 .hero h1 {
@@ -50,10 +50,10 @@ p {
 .hero h1::before {
     content: "";
     position: absolute;
-    padding: 12px;
+    padding: 22px;
     left: -10px;
     right: -10px;
-    top: 25px;
+    top: 26px;
     background-color: var(--highlight-purple);
     z-index: -1;
 }
