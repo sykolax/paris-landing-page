@@ -134,3 +134,8 @@ p {
 .guide img {
     width: 250px;
 }
+
+.guide-text-container {
+    text-align: center;
+    align-self: center;
+}
