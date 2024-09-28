@@ -140,6 +140,24 @@ p {
     align-self: center;
 }
 
+.guide-text-container h3 {
+    position: relative;
+    display: inline-block;
+    z-index: 1;
+}
+
+.guide-text-container h3::before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    padding: 8px;
+    background-color: var(--highlight-yellow);
+    left: -5px;
+    right: -5px;
+    top: 16px;
+    
+}
+
 .guide-text-container p {
     font-style: italic;
     font-weight: 300;
