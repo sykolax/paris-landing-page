@@ -123,6 +123,7 @@ p {
 
 .guide-card {
     display: flex;
+    gap: 50px;
     width: 500px;
     padding: 30px;
     margin: auto;
