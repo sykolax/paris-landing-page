@@ -123,11 +123,13 @@ p {
 
 .guide-card {
     display: flex;
-    width: 800px;
+    width: 500px;
+    padding: 30px;
     margin: auto;
+    background-color: var(--highlight-pink);
+    box-shadow: 10px 10px 0 var(--shadow-navy);
 }
 
 .guide img {
-    width: 300px;
+    width: 250px;
 }
-
