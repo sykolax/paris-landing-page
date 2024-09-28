@@ -121,6 +121,7 @@ p {
     display: flex;
     width: 800px;
     margin: auto;
+    padding: 60px 0;
 }
 
 .guide img {
